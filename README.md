@@ -1,2 +1,2 @@
-1[](erd2(Edited).png)
-1[](erdTable2.jpg)
+![](erd2(Edited).png)
+![](erdTable2.jpg)
